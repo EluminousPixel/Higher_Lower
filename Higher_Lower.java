@@ -1,4 +1,3 @@
-package Higher_Lower;
 import java.util.Scanner;
 
 public class Higher_Lower {
